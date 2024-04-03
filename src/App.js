@@ -22,7 +22,7 @@ function App() {
    <div>
     <div>
      <h1 className=" text-center  my-2 text-[30px] lg:text-[45px] font-bold">
-      Kardelen YÜKSEL
+      Kardelen YÜKSELL
      </h1>
     </div>
     <div className="flex flex-col items-start justify-center">
